@@ -1,0 +1,7 @@
+{
+    "intercept": 5,
+    "coefficients": {
+        "x1": 3,
+        "x2": 2
+    }
+}
