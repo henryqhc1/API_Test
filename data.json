@@ -1,0 +1,11 @@
+[
+    { "ID": 1, "Name": "Alice", "Age": 30, "Zipcode": "12345" },
+    { "ID": 2, "Name": "Bob", "Age": 25, "Zipcode": "67890" },
+    { "ID": 3, "Name": "Charlie", "Age": 35, "Zipcode": "12345" },
+    { "ID": 4, "Name": "David", "Age": 28, "Zipcode": "67890" },
+    { "ID": 5, "Name": "David", "Age": 30, "Zipcode": "60606" },
+    { "ID": 6, "Name": "Linda", "Age": 21, "Zipcode": "60606" },
+    { "ID": 7, "Name": "Tom", "Age": 35, "Zipcode": "67890" },
+    { "ID": 8, "Name": "Jane", "Age": 33, "Zipcode": "12345" },
+    { "ID": 9, "Name": "Joe", "Age": 32, "Zipcode": "60606" }
+]
