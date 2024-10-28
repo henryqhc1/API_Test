@@ -5,7 +5,7 @@ import os
 
 app = Flask(__name__)
 
-DATA_URL = 'https://raw.githubusercontent.com/henryqhc1/API_Test/main/data.json'
+DATA_URL = 'https://raw.githubusercontent.com/henryqhc1/API_Test/main/Demo_data.json'
 
 def load_data():
     try:

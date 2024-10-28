@@ -5,7 +5,7 @@ import os
 
 app = Flask(__name__)
 
-EQUATION_URL = 'https://raw.githubusercontent.com/henryqhc1/API_Test/main/linear_equation.json'
+EQUATION_URL = 'https://raw.githubusercontent.com/henryqhc1/API_Test/main/Demo_linear_equation.json'
 
 def load_equation():
     try:
